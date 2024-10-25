@@ -5,7 +5,7 @@ This is a simple drumkit web application built with HTML, CSS, and JavaScript. I
 
 ## Features
 
-- **Keyboard Controls**: Each key on the keyboard corresponds to a specific drum sound.
+- **Keyboard Controls**: A to L keys on the keyboard corresponds to a specific drum sound.
 - **CSS Animations**: Keys are highlighted with a subtle animation when pressed.
 - **Responsive Design**: Works across different screen sizes for a seamless experience.
 
