@@ -1,14 +1,15 @@
-Drumkit Web App
+#Drumkit Web App
+
 This is a simple drumkit web application built with HTML, CSS, and JavaScript. It allows users to play drum sounds by pressing keys on the keyboard. The app is a fun, interactive demo that showcases basic DOM manipulation and CSS animations.
 
-Features
+Features:
 Keyboard Controls: Each key on the keyboard corresponds to a specific drum sound.
 CSS Animations: Keys are highlighted with a subtle animation when pressed.
 Responsive Design: Works across different screen sizes for a seamless experience.
 Demo
 Link to the live demo (if hosted online)
 
-Screenshots
+Screenshots:
 
 How It Works
 Each key on the keyboard is linked to a specific drum sound file.
